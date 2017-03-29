@@ -1,0 +1,271 @@
+\begin{thebibliography}{dSBVP17}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\input babelbst.tex
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+
+\bibitem[ABH12]{coloredcoin}
+Assia, Y., Buterin, V. \bbland{} Lior~Hakim, Meni~Rosenfeld, R.~L., Colored
+  coins whitepaper.
+\newblock \urlprefix\url{goo.gl/1cqgcS}.
+
+\bibitem[AbW03]{aaa}
+Aboba, B. \bbland{} J.Wood, Authentication, authorization and accounting (aaa)
+  transport profile.
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc3539}.
+
+\bibitem[And14]{bitcoinbook}
+Antonopoulos, A.~M., {\em Mastering Bitcoin}.
+\newblock O'Reilly Media, 2014.
+
+\bibitem[AVS12]{management}
+A.~Sehgal, V.~Perelman, S. K. J.~S., Management of resource constrained devices
+  in the internet of things.
+\newblock {\em IEEE Communications Magazine}, 50,12(2012), \bblpages{}
+  144--149.
+
+\bibitem[Ash09]{ashton}
+Ashton, K., That internet of things things.
+\newblock \bblpages{} 97--114.
+
+\bibitem[BE15]{sidechain}
+Bot, B. \bbland{} Ethereum, Enabling blockchain innovations with pegged
+  sidechains.
+\newblock \urlprefix\url{https://blockstream.com/sidechains.pdf}.
+
+\bibitem[Bit16]{metacoin}
+BitFury, G., Digital assets on public blockchains whitepaper.
+\newblock
+  \urlprefix\url{http://bitfury.com/content/5-white-papers-research/bitfury-digital_assets_on_public_blockchains-1.pdf}.
+
+\bibitem[Bjo10]{yang}
+Bjorklund, M., Yang - a data modeling language for the network configuration
+  protocol (netconf).
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc6020}.
+
+\bibitem[But13]{dagger}
+Buterin, V., Dagger: A memory-hard to compute, memory-easy to verify scrypt
+  alternative.
+\newblock \capitalize\bbltechreport{}, 2013.
+\newblock \urlprefix\url{http://www.hashcash.org/papers/dagger.html}.
+
+\bibitem[But16]{pos}
+Buterin, V., Ethereum 2.0 mauve paper.
+\newblock \urlprefix\url{http://vitalik.ca/files/mauve_paper.html}.
+
+\bibitem[But17]{shard}
+Buterin, V., On sharding blockchains.
+\newblock \urlprefix\url{https://github.com/ethereum/wiki/wiki/Sharding-FAQ}.
+
+\bibitem[BEK14]{constrained}
+C.~Bormann, M.~Ersue, A.~K., Terminology for constrained-node networks.
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc7228}.
+
+\bibitem[BoH16]{cobr}
+C.~Bormann, P.~H., Concise binary object representation (cbor).
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc7049}.
+
+\bibitem[CML99]{pbft}
+Castro, M. \bbland{} Liskov, B., Practical byzantine fault tolerance.
+
+\bibitem[DrB15]{dagger-hashimoto}
+Dryja, T. \bbland{} Buterin, V., Dagger-hashimoto protocol specifications.
+\newblock \capitalize\bbltechreport{}, 2015.
+\newblock
+  \urlprefix\url{https://github.com/ethereum/wiki/blob/master/Dagger-Hashimoto.md}.
+
+\bibitem[Dou02]{sybil}
+Douceur, J.~R., The sybil attack.
+\newblock IPTPS '01, 2002,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=646334.687813}.
+
+\bibitem[SBV17]{comi}
+der Stok, P.~V., Bierman, A., Veillette, M. \bbland{} Pelov, A., Coap
+  management interface.
+\newblock \capitalize\bbltechreport{}, 2017.
+\newblock
+  \urlprefix\url{https://tools.ietf.org/html/draft-vanderstok-core-comi-11}.
+
+\bibitem[EB15]{hydrachain}
+Ethereum \bbland{} Bot, B., Hydrachain open source code.
+\newblock \urlprefix\url{https://github.com/HydraChain/hydrachain}.
+
+\bibitem[EGS16]{bitcoinng}
+Eyal~Ittay, Gencer Adem~Efe, S. E.~G., Bitcoin-ng: A scalable blockchain
+  protocol.
+\newblock  {\em Proceedings of the 13th Usenix Conference on Networked Systems
+  Design and Implementation}, NSDI'16. USENIX Association, 2016, \bblpages{}
+  45--59, \urlprefix\url{http://dl.acm.org/citation.cfm?id=2930611.2930615}.
+
+\bibitem[Fer16]{liskacademy}
+Fernandez, J.~O., Lisk academy.
+\newblock \urlprefix\url{https://academy.lisk.io/}.
+
+\bibitem[FeA11]{websocket}
+Fette, I. \bbland{} Melnikov, A., The websocket protocol.
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc6455}.
+
+\bibitem[Eth15]{ethash}
+Foundation, E., Ethash design rationale.
+\newblock \capitalize\bbltechreport{}, 2015.
+\newblock
+  \urlprefix\url{https://github.com/ethereum/wiki/wiki/Ethash-Design-Rationale}.
+
+\bibitem[Eth16]{eth-whitepaper}
+Foundation, E., Ethereum white paper - a next-generation smart contract and
+  decentralized application platform.
+\newblock \urlprefix\url{https://github.com/ethereum/wiki/wiki/White-Paper}.
+
+\bibitem[Hyp16]{hyperledger}
+Foundation, L., Hyperledger whitepaper.
+\newblock
+  \urlprefix\url{https://github.com/hyperledger/hyperledger/wiki/Whitepaper-WG}.
+
+\bibitem[BiF17]{bitcoin-weakness}
+Foundation, B., Bitcoin weaknesses.
+\newblock \urlprefix\url{https://en.bitcoin.it/wiki/Weaknesses}.
+
+\bibitem[CoF17]{ethereum-safety}
+Foundation, C., Ethereum safety.
+\newblock
+  \urlprefix\url{https://github.com/ConsenSys/smart-contract-best-practices}.
+
+\bibitem[Gav14]{ethereum1}
+Gavin, W., {Ethereum: A secure decentralised generalised transaction ledger.},
+  2014.
+\newblock \url{http://gavwood.com/paper.pdf}
+
+\bibitem[Gre15]{multichain}
+Greenspan, G., Multichain private blockchain white paper.
+\newblock
+  \urlprefix\url{http://www.multichain.com/download/MultiChain-White-Paper.pdf}.
+
+\bibitem[Har15]{observe-notify}
+Hartke, K., Observing resources in the constrained application protocol (coap).
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc6120}.
+
+\bibitem[KCE15]{namecoin}
+Harry, K., Miles, C. \bbland{} Ellenbogen~Paul, Joseph~Bonneau, A.~N., An
+  empirical study of namecoin and lessons for decentralized namespace design.
+\newblock \urlprefix\url{http://randomwalker.info/publications/namespaces.pdf}.
+
+\bibitem[CFS90]{snmp}
+J.~Case, M.~Fedor, M. S. J.~D., A simple network management protocol (snmp).
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc1157}.
+
+\bibitem[J.D14]{cryptonite}
+J.D.Bruce, The mini-blockchain scheme.
+\newblock \urlprefix\url{http://cryptonite.info/files/mbc-scheme-rev2.pdf}.
+
+\bibitem[Jen96]{bayesian-networks}
+Jensen, F.~V., {\em An introduction to Bayesian networks}, \bblvolume{} 210.
+\newblock UCL press London, 1996.
+
+\bibitem[Jim16]{lwm2m}
+Jimenez, J., Open mobile alliance-lightweight m2m specifications.
+\newblock \capitalize\bbltechreport{}, 2016.
+\newblock
+  \urlprefix\url{https://tools.ietf.org/html/draft-jimenez-t2trg-coap-functionality-lwm2m-00}.
+\newblock RFC.
+
+\bibitem[KB16]{lisk}
+Kordek, M. \bbland{} Beddows, O., Lisk whitepaper.
+\newblock \urlprefix\url{https://lisk.io/whitepaper}.
+
+\bibitem[CDE16]{scalability}
+Kyle~Croman, Christian~Decker, I. E. A. E.~G., {On Scaling Decentralized
+  Blockchains}, 2016.
+\newblock \url{http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf}
+
+\bibitem[Ler14]{pseudorandom-cache}
+Lerner, S., Strict memory hashing functions.
+\newblock \capitalize\bbltechreport{}, 2014.
+\newblock \urlprefix\url{http://www.hashcash.org/papers/memohash.pdf}.
+
+\bibitem[Ler15]{rootstock}
+Lerner, S.~D., Rootstock: Bitcoin powered smart contracts.
+\newblock \capitalize\bbltechreport{}, 2015.
+\newblock
+  \urlprefix\url{http://www.the-blockchain.com/docs/Rootstock-WhitePaper-Overview.pdf}.
+
+\bibitem[ToA15]{leshan}
+Leshan implementation.
+\newblock \urlprefix\url{https://github.com/eclipse/leshan}.
+
+\bibitem[LRM81]{byz}
+Leslie~Lamport, Robert~Shostak, M.~P., {The Byzantine Generals Problem }, 1981.
+\newblock
+  \url{http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf}
+
+\bibitem[Jpm14]{amqp}
+Morgan, J., Advanced message queuing protocol (amqp) standard.
+\newblock
+  \urlprefix\url{http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=64955}.
+
+\bibitem[VPS16]{cool}
+M.~Veillette, A.~Pelov, A. S. R. T. A.~M., Constrained objects language.
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc7049}.
+
+\bibitem[Joh07]{middleware}
+O'Hara, J., Toward a commodity enterprise middleware.
+\newblock \bblpages{} 48--55.
+\newblock
+  \urlprefix\url{http://oldwww.acm.org/acmqueue/digital/Queuevol5no4_May2007.pdf}.
+
+\bibitem[Org15]{dpos}
+Org, B., Delegated proof-of-stake consensus.
+\newblock \capitalize\bbltechreport{}, 2015.
+\newblock
+  \urlprefix\url{https://bitshares.org/technology/delegated-proof-of-stake-consensus/}.
+
+\bibitem[Pau13]{iotprotocols}
+Paul, D., Beyond mqtt: A cisco view on iot protocols.
+\newblock \capitalize\bbltechreport{}, 2013.
+\newblock
+  \urlprefix\url{http://blogs.cisco.com/digital/beyond-mqtt-a-cisco-view-on-iot-protocols}.
+
+\bibitem[JpT16]{lightning}
+Poon, J. \bbland{} Dryja, T., The bitcoin lightning network: Scalable off-chain
+  instant payments.
+\newblock \capitalize\bbltechreport{}, 2016.
+\newblock \urlprefix\url{https://lightning.network/}.
+\newblock draft.
+
+\bibitem[Sat08]{bitcoin}
+Satoshi, N., {Bitcoin: A peer-to-peer electronic cash system}, 2008.
+\newblock \url{http://bitcoin.org/bitcoin.pdf}
+
+\bibitem[RSS94]{accessControl}
+Sandhu, R.~S. \bbland{} Samarati, P., Access control: principle and practice.
+\newblock {\em IEEE Communications Magazine}, 32,9(1994), \bblpages{} 40--48.
+
+\bibitem[Ste14]{proofofburn}
+Stewart, I., Slimcoin.
+\newblock \urlprefix\url{http://www.slimcoin.club/whitepaper.pdf}.
+
+\bibitem[Sza97]{NICK}
+Szabo, N., The idea of smart contracts.
+\newblock \urlprefix\url{http://szabo.best.vwh.net/smart_contracts_idea.html}.
+
+\bibitem[MMM16]{bigchaindb}
+Trent~McConaghy, Rodolphe~Marques, A.~M., Bigchaindb whitepaper.
+\newblock \urlprefix\url{https://www.bigchaindb.com/whitepaper/}.
+
+\bibitem[Vuk15]{pbft2}
+Vukoli, M., The quest for scalable blockchain fabric: Proof-of-work vs. bft
+  replication.
+\newblock \urlprefix\url{http://www.vukolic.com/iNetSec_2015.pdf}.
+
+\bibitem[VaK15]{dsr}
+V.~Vaishnavi, B.~K., Design research in information systems.
+\newblock \capitalize\bbltechreport{}, 2015.
+\newblock
+  \urlprefix\url{http://desrist.org/design-research-in-information-systems/}.
+
+\bibitem[SHB14]{CoAPstandard}
+Z.~Shelby, K.~Hartke, C.~B., The constrained application protocol (coap).
+\newblock \urlprefix\url{https://tools.ietf.org/html/rfc7252}.
+
+\end{thebibliography}

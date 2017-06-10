@@ -5,7 +5,7 @@
 The folder `latex_files` can be used as a template for Master's thesis for Computer Science department in the University of Helsinki, Finland. This repo does not contain the implementation.
 
 ## Topic
-Using Blockchain Technology and Smart Contracts for Access Management in IoT devices
+#### Using Blockchain Technology and Smart Contracts for Access Management in IoT devices
 
 ### Abstract
 The Internet of Things is a proliferating industry, which is transforming many homes and businesses, making them smart. However, the rapid growth of these devices and the interactions between these devices, introduces many challenges including that of a secure management system for the identities and interactions of the devices. While the centralized model has worked well for many years, there is a risk of the servers becoming bottlenecks and a single point of failure, thereby making them vulnerable to Denial-of-Service attacks. 
